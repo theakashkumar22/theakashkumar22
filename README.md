@@ -11,9 +11,19 @@
 I'm a passionate student on a journey to become an entrepreneur, combining my analytical mindset with creativity. With strong foundations in data analytics and software development, I thrive on solving real-world problems—one project at a time.
 
 - 🐍 **Python** | 🤖 **Machine Learning** | 🗄️ **SQL** | ⚛️ **React**
-- 🔭 Working on: [auyrvedic_recsys](https://github.com/theakashkumar22/auyrvedic_recsys) — an Ayurvedic Recommendation System
 - 🤝 Open to collaborating on data-driven and impactful projects
 - 🧠 Fun fact: I'm a bit of an overthinker and sometimes paranoid (but that just means I care about details!)
+
+---
+
+## 🌟 Featured Projects
+
+- [**Data-Analytics-Portfolio**](https://github.com/theakashkumar22/Data-Analytics-Portfolio)  
+  🚀 A curated portfolio of data analytics projects exploring real-world retail scenarios using the Superstore dataset.  
+  From data wrangling and statistical analysis to BI insights and visual storytelling.
+
+- [**ayurvedic-recsys**](https://github.com/theakashkumar22/ayurvedic-recsys)  
+  🩺 An Ayurvedic Recommendation System leveraging machine learning to provide personalized wellness suggestions.
 
 ---
 
