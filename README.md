@@ -25,6 +25,9 @@ I'm a passionate student on a journey to become an entrepreneur, combining my an
 - [**ayurvedic-recsys**](https://github.com/theakashkumar22/ayurvedic-recsys)  
   🩺 An Ayurvedic Recommendation System leveraging machine learning to provide personalized wellness suggestions.
 
+- [**Software-Development-Projects**](https://github.com/theakashkumar22/Software-Development-Projects)  
+  💻 A showcase of diverse software development projects demonstrating proficiency in full stack development, algorithms, and creative problem-solving.
+
 - [**Web-Development-Projects**](https://github.com/theakashkumar22/Web-Development-Projects)  
   🌐 A collection of diverse web development projects, showcasing skills in front-end and back-end technologies, UI/UX, and modern frameworks.
 
