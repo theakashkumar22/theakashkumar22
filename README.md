@@ -22,8 +22,11 @@ I'm a passionate student on a journey to become an entrepreneur, combining my an
   🚀 A curated portfolio of data analytics projects exploring real-world retail scenarios using the Superstore dataset.  
   From data wrangling and statistical analysis to BI insights and visual storytelling.
 
-- [**Ayurvedic-RecSys**](https://github.com/theakashkumar22/Ayurvedic-RecSys)  
+- [**ayurvedic-recsys**](https://github.com/theakashkumar22/ayurvedic-recsys)  
   🩺 An Ayurvedic Recommendation System leveraging machine learning to provide personalized wellness suggestions.
+
+- [**Software-Development-Projects**](https://github.com/theakashkumar22/Software-Development-Projects)  
+  💻 A showcase of diverse software development projects demonstrating proficiency in GUI development, algorithms, and creative problem-solving.
 
 ---
 
